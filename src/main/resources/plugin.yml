@@ -1,0 +1,4 @@
+name: ForwardLib
+version: '${version}'
+main: tk.yongangame.mc.spigot.forwardlib.ForwardLib
+api-version: 1.13
